@@ -1,1 +1,1 @@
-# SMIT Instructions 
+# installations steps
